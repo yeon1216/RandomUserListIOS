@@ -2,6 +2,9 @@
 
 RandomUser API를 활용한 iOS 사용자 목록 애플리케이션입니다.
 
+<img width="1057" alt="image" src="https://github.com/user-attachments/assets/7a0746be-5f69-45a5-95ab-9b64fe67679e" />
+
+
 ## 주요 기능
 
 - RandomUser API를 통한 사용자 목록 표시
